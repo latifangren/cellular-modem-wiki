@@ -27,13 +27,14 @@ Universal wiki and documentation hub for 4G LTE and 5G NR cellular modems (M.2 K
 | Manufacturer | Model / Series | OEM Equivalent | Chipset / Platform | Category / Speed |
 | :--- | :--- | :--- | :--- | :--- |
 | **Foxconn / HP** | [HP lt4220 / T77W676](./foxconn/T77W676.md) | Telit LN940 | Qualcomm Snapdragon X12 | LTE Cat-9 / Cat-12 (up to 600 Mbps 3CA 256QAM) |
+| **Foxconn / Dell** | [T77W968](./foxconn/T77W968.md) | Dell DW5821e | Qualcomm Snapdragon X20 | LTE Cat-16 Gigabit (1 Gbps DL 5CA) |
+| **Foxconn / Dell** | [T99W175](./foxconn/T99W175.md) | Dell DW5930e | Qualcomm Snapdragon X55 | 5G Sub-6/mmWave (7.0 Gbps DL) |
 | **Fibocom** | [L850-GL](./fibocom/l850-gl/L850-GL.md) | Dell DW5820e, HP G5+ / ThinkPad | Intel XMM7360 | LTE Cat-9 (450 Mbps DL / 50 Mbps UL, MBIM & NCM) |
-| **Fibocom / Dell** | [L860-GL](./fibocom/l860-gl/L860-GL.md) | Dell DW5821e, Foxconn T77W968 | Intel XMM7560 | LTE Cat-16 (1 Gbps DL / 150 Mbps UL, 5CA) |
-| **Fibocom** | [FM350-GL](./fibocom/fm350-gl/FM350-GL.md) | Dell DW5930e, HP lt4320 | MediaTek T700 | 5G Sub-6 & LTE Cat-19 (4.7 Gbps DL) |
+| **Fibocom** | [L860-GL](./fibocom/l860-gl/L860-GL.md) | HP lt4210, ThinkPad | Intel XMM7560 | LTE Cat-16 (1 Gbps DL / 150 Mbps UL, 5CA) |
+| **Fibocom** | [FM350-GL](./fibocom/fm350-gl/FM350-GL.md) | HP lt4320 | MediaTek T700 | 5G Sub-6 & LTE Cat-19 (4.7 Gbps DL) |
 | **Fibocom** | [FM190W-GL](./fibocom/sdxpinn/FM190W-GL.md) | - | Qualcomm SDX75 | 5G NR Sub-6/mmWave |
 | **Sierra** | [EM7455 / EM7430](./sierra/EM7455.md) | Dell DW5811e, DW5816e | Qualcomm MDM9230 | LTE Cat-6 (300 Mbps DL / 50 Mbps UL) |
 | **Sierra** | [EM7565 / EM7511](./sierra/EM7565.md) | Dell / Lenovo OEM | Qualcomm SDX12 | LTE Cat-12 (600 Mbps DL / 150 Mbps UL) |
-| **Foxconn** | [T99W175](./foxconn/T99W175.md) | Dell DW5930e variant | Qualcomm SDX55 | 5G Sub-6/mmWave (7.0 Gbps DL) |
 | **SIMCom** | [SIM8200EA / SIM8262E](./simcom/SIM8200.md) | Waveshare 5G HAT | Qualcomm SDX55 / SDX62 | 5G Sub-6 (4.0 Gbps DL) |
 | **Telit** | [FN980 / FN990](./telit/FN980.md) | Industrial M.2 | Qualcomm SDX55 / SDX65 | 5G Sub-6/mmWave (5.5 Gbps DL) |
 | **Quectel** | [EP06 / EM06 / EC25](./quectel/cat6_cat12_cat16/EP06-EM06.md) | - | Qualcomm MDM9607 | LTE Cat-4 / Cat-6 (300 Mbps DL) |
