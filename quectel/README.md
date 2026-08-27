@@ -28,6 +28,7 @@ Welcome to the Quectel Modem Wiki!
 	- [RM502Q-AE](./sdxprairie/RM502Q-AE.md)
 - [SDXLEMUR Platform (SDX62/65)](./sdxlemur/README.md):
 	- [SDXLEMUR M.2 Direct to Ethernet Guide](./sdxlemur/sdxlemur_m.2_to_eth.md)
+	- [RG501Q-EU Recovery Guide](./sdxlemur/rg501q-eu_recovery_guide.md)
 	- [RM520N-GL](./sdxlemur/RM520N-GL.md)
 	- [RM521F-GL](./sdxlemur/RM521F-GL.md)
 - [SDXPINN Platform (SDX75)](./sdxpinn/README.md):

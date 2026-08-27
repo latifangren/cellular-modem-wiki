@@ -12,5 +12,6 @@ To do: Add info about the SDXLEMUR platform
 - [Manually Entering EDL mode](./sdxlemur_m.2_to_eth.md)
 - [SDXLEMUR Advanced](./sdxlemur_advanced.md)
 - Modems
+     - [RG501Q-EU Recovery Guide](./rg501q-eu_recovery_guide.md)
      - [RM520N-GL](./RM520N-GL.md)
      - [RM521F-GL](./RM521F-GL.md)
